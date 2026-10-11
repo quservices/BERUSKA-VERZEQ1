@@ -1,0 +1,920 @@
+{
+  "products/kolac-tvarohovy": {
+    "w": 382,
+    "h": 384,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-makovy": {
+    "w": 266,
+    "h": 368,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-orechovy": {
+    "w": 384,
+    "h": 377,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-povidlovy": {
+    "w": 384,
+    "h": 379,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-povidlo-tvaroh": {
+    "w": 382,
+    "h": 379,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-povidlo-mak": {
+    "w": 382,
+    "h": 379,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-trubicka": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-venecek-sleh": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-venecek-polevany": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-vetrnik": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-puncova-koule": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-spicka": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-indianek": {
+    "w": 311,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-ovocny-kosicek": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-puncovy-rez": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-misa-rez": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mini-boruvka-rez": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/spicka-likerova": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/spicka-bila": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/indian": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/punc-koule": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/tiramisu": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/ovocna-kostka": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/trubicky": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mrkvovy-dort-rez": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kavove-zrno": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/jadrovy-rohlicek": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/muzikal": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kremovy-rez": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/puncovy-rez": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/strecha": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/prazska-koule": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/puncovy-tunel": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kremes": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/venecek-srdicko": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/venecek-polevany": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/venecek-sleh": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/bananek": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/vetrnik": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/vetrnik-maxi": {
+    "w": 359,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "products/ovocny-kosicek": {
+    "w": 361,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kubansky-rez": {
+    "w": 363,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pariz-malina": {
+    "w": 362,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pariz-rez": {
+    "w": 360,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pistacie-rez": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/karamel-rez": {
+    "w": 362,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/misa-malina": {
+    "w": 360,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/misa-rez": {
+    "w": 361,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/boruvka-rez": {
+    "w": 356,
+    "h": 358,
+    "sizes": [
+      480
+    ]
+  },
+  "products/laskonka": {
+    "w": 356,
+    "h": 358,
+    "sizes": [
+      480
+    ]
+  },
+  "products/brabrant": {
+    "w": 356,
+    "h": 358,
+    "sizes": [
+      480
+    ]
+  },
+  "products/rolada-polovina": {
+    "w": 352,
+    "h": 352,
+    "sizes": [
+      480
+    ]
+  },
+  "products/rolada-cela": {
+    "w": 352,
+    "h": 352,
+    "sizes": [
+      480
+    ]
+  },
+  "products/rolada-mini": {
+    "w": 352,
+    "h": 307,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mrkvanek": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/hreben": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/zavin": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/frgal": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/vanocka": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/babovka": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/biskupsky-chlebicek": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/citronova-babeta": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/makovec": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/linecke-trene": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/vdolek": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/bulka": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/zapekana-klobasa": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/zapekany-parek": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pizza-kapsa": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pagace": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pagacky": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/focaccia": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chleb-kvaskovy": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/skvarkova-pomazanka": {
+    "w": 361,
+    "h": 361,
+    "sizes": [
+      480
+    ]
+  },
+  "products/orechovy-rohlicek": {
+    "w": 363,
+    "h": 362,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kremrole": {
+    "w": 362,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/koblihy": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pistaciovy-kolac": {
+    "w": 363,
+    "h": 362,
+    "sizes": [
+      480
+    ]
+  },
+  "products/kolac-tvaroh-jahoda": {
+    "w": 363,
+    "h": 362,
+    "sizes": [
+      480
+    ]
+  },
+  "products/pusinky": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/piskoty": {
+    "w": 363,
+    "h": 363,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-sunka-salat": {
+    "w": 692,
+    "h": 444,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-sunka-syr": {
+    "w": 692,
+    "h": 444,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-ruske-vejce": {
+    "w": 692,
+    "h": 444,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-pochoutkovy": {
+    "w": 692,
+    "h": 444,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-vysocina": {
+    "w": 692,
+    "h": 444,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-kureci": {
+    "w": 693,
+    "h": 442,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-syrova-variace": {
+    "w": 693,
+    "h": 443,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-redkvicka": {
+    "w": 688,
+    "h": 439,
+    "sizes": [
+      480
+    ]
+  },
+  "products/chlebicek-mozzarella": {
+    "w": 688,
+    "h": 439,
+    "sizes": [
+      480
+    ]
+  },
+  "products/velikonocni-venec": {
+    "w": 358,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/mazanec": {
+    "w": 358,
+    "h": 328,
+    "sizes": [
+      480
+    ]
+  },
+  "products/beranek-pernikovy": {
+    "w": 358,
+    "h": 364,
+    "sizes": [
+      480
+    ]
+  },
+  "products/beranek-slehany": {
+    "w": 358,
+    "h": 364,
+    "sizes": [
+      480
+    ]
+  },
+  "products/linecky-balicek": {
+    "w": 358,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "products/cukrovi-mix": {
+    "w": 366,
+    "h": 337,
+    "sizes": [
+      480
+    ]
+  },
+  "products/cukrovi-marmeladove": {
+    "w": 365,
+    "h": 337,
+    "sizes": [
+      480
+    ]
+  },
+  "products/cukrovi-darkova-krabicka": {
+    "w": 365,
+    "h": 337,
+    "sizes": [
+      480
+    ]
+  },
+  "products/srdicko-zlate": {
+    "w": 463,
+    "h": 424,
+    "sizes": [
+      480
+    ]
+  },
+  "products/srdicko-kremove": {
+    "w": 462,
+    "h": 424,
+    "sizes": [
+      480
+    ]
+  },
+  "products/ozdoby-sada-4": {
+    "w": 624,
+    "h": 278,
+    "sizes": [
+      480
+    ]
+  },
+  "products/ozdoby-sada-5": {
+    "w": 865,
+    "h": 279,
+    "sizes": [
+      480,
+      960
+    ]
+  },
+  "gallery/vysluzka-celofan": {
+    "w": 300,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/vysluzka-krabicka": {
+    "w": 300,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/vysluzka-srdicko": {
+    "w": 294,
+    "h": 359,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/vysluzka-okenko": {
+    "w": 286,
+    "h": 362,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/sweetbar-kolace": {
+    "w": 294,
+    "h": 360,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/kolacky-pivonky": {
+    "w": 296,
+    "h": 358,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/eclairy": {
+    "w": 298,
+    "h": 301,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/kolace-boruvka": {
+    "w": 291,
+    "h": 338,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/svatebni-dort-srdce": {
+    "w": 286,
+    "h": 328,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/sweetbar-stul": {
+    "w": 301,
+    "h": 385,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/sweetbar-zakusky": {
+    "w": 301,
+    "h": 403,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dezerty-pohary": {
+    "w": 298,
+    "h": 475,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/svatebni-dort-fiky": {
+    "w": 295,
+    "h": 475,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/svatebni-dort-ruze": {
+    "w": 291,
+    "h": 475,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-srdce-malina": {
+    "w": 246,
+    "h": 298,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-cokoladovy-drip": {
+    "w": 246,
+    "h": 298,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-jednorozec": {
+    "w": 241,
+    "h": 298,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-karamelovy": {
+    "w": 254,
+    "h": 315,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-macesky": {
+    "w": 256,
+    "h": 253,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-fiky-patrovy": {
+    "w": 451,
+    "h": 418,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-auticko": {
+    "w": 243,
+    "h": 251,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-ovocny": {
+    "w": 256,
+    "h": 251,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-mrkvovy": {
+    "w": 226,
+    "h": 251,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-srdce-ovoce": {
+    "w": 243,
+    "h": 241,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-cislo-60": {
+    "w": 256,
+    "h": 248,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-ruze-patrovy": {
+    "w": 427,
+    "h": 466,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-cokoladovy": {
+    "w": 243,
+    "h": 253,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-kiwi": {
+    "w": 246,
+    "h": 253,
+    "sizes": [
+      480
+    ]
+  },
+  "gallery/dort-jahodovy": {
+    "w": 430,
+    "h": 343,
+    "sizes": [
+      480
+    ]
+  }
+}

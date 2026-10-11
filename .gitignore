@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+# Originální ceníky z oficiálního webu – stáhne `npm run fetch-sources`
+assets-source
